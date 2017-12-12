@@ -1,0 +1,28 @@
+.skillCnt {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom: 20px;
+	width: 350px;
+}
+
+p {
+	margin: 0;
+	padding-right: 10px;
+}
+
+
+
+.skill {
+	border: 1px solid #000;
+	width: 200px;
+	height: 20px;
+	/*margin-bottom: 20px;*/
+	
+}
+
+.level {
+	height: 20px;
+	
+}
+
